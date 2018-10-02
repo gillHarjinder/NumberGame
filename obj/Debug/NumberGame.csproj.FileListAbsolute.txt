@@ -1,0 +1,7 @@
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\bin\Debug\NumberGame.exe.config
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\bin\Debug\NumberGame.exe
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\bin\Debug\NumberGame.pdb
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\obj\Debug\NumberGame.exe
+C:\Users\harjinder\Desktop\Git_Projects\NumberGame\obj\Debug\NumberGame.pdb
